@@ -68,7 +68,7 @@ int main()
     {
         printf("\n%d\t", i+1);
         n=1;
-        for (i2=i;(i2)<(rows);++i2) //Spacer rutine, places 4 spaces to make the perimid shape
+        for (i2=i;(i2)<(rows);++i2) //Spacer rutine, places spaces to make the perimid shape
         {
             for (i3=1; (i3)<=(i4); ++i3) //i4 is generated earlier
             {
