@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564258582 source:c:\users\hanro\documents\projects\triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
